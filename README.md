@@ -80,6 +80,6 @@
 <br/>
 
 ![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjatjr0513&layout=compact&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongJiho1998&layout=compact&theme=github_dark">
 
 
