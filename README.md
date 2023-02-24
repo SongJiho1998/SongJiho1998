@@ -48,6 +48,11 @@
 <br/>
 
 <p align="center" display="inline-block">
+    <Strong>💽 Version</Strong><br/><br/>
+    <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white&fontColor=white">
+</p>
+
+<p align="center" display="inline-block">
     <Strong>🗄 Server</Strong><br/><br/>
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white&fontColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white&fontColor=white">
