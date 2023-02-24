@@ -79,8 +79,6 @@
 
 <br/>
 
-<p align="center" display="inline-block">
-    ![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
-</p>
+![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
 
 
