@@ -70,6 +70,13 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&fontColor=white">
 </p>
 
+<br/>
+
+<p align="center" display="inline-block">
+    <Strong>📬 SNS</Strong><br/><br/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&fontColor=white">
+</p>
+
 
 
 <div>
