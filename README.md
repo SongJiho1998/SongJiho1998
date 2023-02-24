@@ -3,7 +3,7 @@
 <br/><br/><br/>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>🗁 Back End</Strong><br>
 </p>
 
 
