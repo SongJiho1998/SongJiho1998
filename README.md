@@ -6,8 +6,10 @@
 <p align="center" display="inline-block">
     <Strong>🗁 Back End</Strong><br>
     
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white&fontColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white">
+    <div>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white&fontColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white">
+    </div>
 </p>
 
 
