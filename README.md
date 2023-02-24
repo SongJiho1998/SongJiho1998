@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20To%20Jiho's%20GitHub&fontSize=70&fontColor=ffffff&border=1pxsolidwhite)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20To%20Jiho's%20GitHub&fontSize=70&fontColor=ffffff)
 
+
+<div>
+    <img src="https://img.shields.io/badge/#61DAFB?style=for-the-badge&logo=React&logoColor=black">
+</div>
 <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
