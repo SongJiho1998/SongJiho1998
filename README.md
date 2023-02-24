@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&fontColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white&fontColor=white">
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white&fontColor=white">
+    <img src="https://img.shields.io/badge/Java-13448F?style=for-the-badge&logo=Java&logoColor=white&fontColor=white">
 </div>
 
 ![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
