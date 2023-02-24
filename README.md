@@ -2,7 +2,7 @@
 
 
 <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&fontColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&color=white">
 </div>
 <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
