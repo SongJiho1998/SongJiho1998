@@ -2,6 +2,11 @@
 
 <br/><br/><br/>
 
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+</p>
+
+
 
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&fontColor=white">
