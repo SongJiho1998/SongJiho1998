@@ -25,3 +25,4 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />       
 </div>
 ![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
+d
