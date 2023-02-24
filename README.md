@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20Jiho's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20Jiho's%20GitHub&fontSize=80)
 
 <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
