@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF33&height=300&section=header&text=Welcome%20To%20Jiho's%20GitHub&fontSize=70&fontColor=ffffff)
 
 
-<br/><br/><br/>
+<br/>
 
 <p align="center" display="inline-block">
     <Strong>🗁 Back End</Strong><br/><br/>
