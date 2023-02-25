@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&fontColor=white">
 </p>
 
-<br/>
-
 <p align="center" display="inline-block">
     <Strong>🗁 Front End</Strong><br/><br/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&fontColor=white">
@@ -19,8 +17,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontColor=white">
 </p>
 
-<br/>
-
 <p align="center" display="inline-block">
     <Strong>💡 Language</Strong><br/><br/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&fontColor=white">
@@ -28,14 +24,10 @@
     <img src="https://img.shields.io/badge/Java-13448F?style=for-the-badge&logo=Java&logoColor=white&fontColor=white">
 </p>
 
-<br/>
-
 <p align="center" display="inline-block">
     <Strong>🖫 DataBase</Strong><br/><br/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&fontColor=white">
 </p>
-
-<br/>
 
 <p align="center" display="inline-block">
     <Strong>🖳 IDEA</Strong><br/><br/>
@@ -44,8 +36,6 @@
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white&fontColor=white">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white&fontColor=white">
 </p>
-
-<br/>
 
 <p align="center" display="inline-block">
     <Strong>💽 Version</Strong><br/><br/>
@@ -61,8 +51,6 @@
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white&fontColor=white">
 </p>
 
-<br/>
-
 <p align="center" display="inline-block">
     <Strong>👤 Team Collaboration Tool</Strong><br/><br/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&fontColor=white">
@@ -70,14 +58,10 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&fontColor=white">
 </p>
 
-<br/>
-
 <p align="center" display="inline-block">
     <Strong>📬 SNS</Strong><br/><br/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&fontColor=white">
 </p>
-
-<br/>
 
 ![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongJiho1998&layout=compact&theme=github_dark">
