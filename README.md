@@ -65,7 +65,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&fontColor=white">
 </p>
 
-![SongJiho1998's github stats](https://github-readme-stats.vercel.app/api?username=SongJiho1998&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongJiho1998&layout=compact&theme=github_dark">
-
 
