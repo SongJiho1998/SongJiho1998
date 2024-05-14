@@ -6,4 +6,4 @@
 <br/>
 
 <h2>Language</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,)](https://skillicons.dev)
+[![My Skill](https://skillicons.dev/icons?i=java,)](https://skillicons.dev)
