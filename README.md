@@ -7,6 +7,6 @@
 
 <h3>Skills Set</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,mysql,Jenkins,docker,linux,GitHub,GitLab,notion,idea,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,mysql,Jenkins,docker,linux,GitHub,GitLab,notion,idea,vscode)](https://skillicons.dev)
 
 
