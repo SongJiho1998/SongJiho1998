@@ -5,7 +5,7 @@
 
 <br/>
 
-<b><h3>• Skills Set</h3><b/>
+<b><h2>• Skills Set</h2><b/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,mysql,jenkins,docker,linux,github,gitlab,notion,idea,vscode,gradle,maven)](https://skillicons.dev)
 
