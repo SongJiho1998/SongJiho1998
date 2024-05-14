@@ -5,6 +5,7 @@
 
 <br/>
 
-<h2>Language</h2>
+<h2>Sklis</h2>
 
+Language
 [![My Skills](https://skillicons.dev/icons?i=java,)](https://skillicons.dev)
